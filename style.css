@@ -42,7 +42,7 @@ h1 {
 #name {
     font-size: 50px;
     line-height: 1.2;
-    font-family: 'Lora', serif;
+    font-family: 'Codystar', cursive;
 
 }
 
@@ -124,3 +124,6 @@ a {
     color:fuchsia;
 }
 
+a  {
+  text-decoration: none;  
+} 
